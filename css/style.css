@@ -214,7 +214,7 @@
     display: block;
     width: 12px;
     height: 7px;
-    background: url(../../img/arrow.svg) no-repeat 100% 50%;
+    background: url(../img/arrow.svg) no-repeat 100% 50%;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -236,7 +236,7 @@
   color: #000000;
 }
 .page-header__contacts-wapp {
-  background: url(../../img/whatsapp.svg) no-repeat 0 50%;
+  background: url(../img/whatsapp.svg) no-repeat 0 50%;
   font-size: 20px;
   letter-spacing: 3px;
   font-weight: 900;
@@ -248,11 +248,11 @@
   text-decoration: none;
 }
 .page-header__contacts-loc {
-  background: url(../../img/geo_small.svg) no-repeat 2px 50%;
+  background: url(../img/geo_small.svg) no-repeat 2px 50%;
   font-size: 14px;
 }
 .page-header__contacts-mail {
-  background: url(../../img/mail.svg) no-repeat 2px 50%;
+  background: url(../img/mail.svg) no-repeat 2px 50%;
 }
 @media (max-width: 1279px) {
   .page-header__mobile--active .page-header__contacts-mail {
@@ -289,7 +289,7 @@
   display: block;
   padding-left: 25px;
   margin-bottom: 10px;
-  background: url(../../img/call.svg) no-repeat 0 50%;
+  background: url(../img/call.svg) no-repeat 0 50%;
   font-size: 20px;
   letter-spacing: 3px;
   font-weight: 900;
@@ -475,7 +475,7 @@
   display: block;
   width: 12px;
   height: 7px;
-  background: url(../../img/arrow.svg) no-repeat 100% 50%;
+  background: url(../img/arrow.svg) no-repeat 100% 50%;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -524,7 +524,7 @@
   display: block;
   width: 12px;
   height: 7px;
-  background: url(../../img/arrow-white.svg) no-repeat 100% 50%;
+  background: url(../img/arrow-white.svg) no-repeat 100% 50%;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -574,7 +574,7 @@
   font-weight: 900;
   text-transform: uppercase;
   color: #000000;
-  background: url(../../img/arrow.svg) no-repeat 100% 50%;
+  background: url(../img/arrow.svg) no-repeat 100% 50%;
 }
 @media (max-width: 1279px) {
   .nav-lang__link {
@@ -627,7 +627,7 @@
   bottom: 0;
   right: 0;
   margin: auto 0;
-  background: url(../../img/line-promo.svg) no-repeat 50% 50%;
+  background: url(../img/line-promo.svg) no-repeat 50% 50%;
 }
 @media (max-width: 1279px) {
   .promo__nav-link {
@@ -638,22 +638,22 @@
   display: none;
 }
 .promo__nav li:nth-of-type(1) .promo__nav-link {
-  background: #EBEBEB url(../../img/design.svg) no-repeat 50% 17px;
+  background: #EBEBEB url(../img/design.svg) no-repeat 50% 17px;
 }
 .promo__nav li:nth-of-type(2) .promo__nav-link {
-  background: #EBEBEB url(../../img/brochure.svg) no-repeat 50% 25px;
+  background: #EBEBEB url(../img/brochure.svg) no-repeat 50% 25px;
 }
 .promo__nav li:nth-of-type(3) .promo__nav-link {
-  background: #EBEBEB url(../../img/sheeting.svg) no-repeat 50% 25px;
+  background: #EBEBEB url(../img/sheeting.svg) no-repeat 50% 25px;
 }
 .promo__nav li:nth-of-type(4) .promo__nav-link {
-  background: #EBEBEB url(../../img/paint-palette.svg) no-repeat 50% 25px;
+  background: #EBEBEB url(../img/paint-palette.svg) no-repeat 50% 25px;
 }
 .promo__nav li:nth-of-type(5) .promo__nav-link {
-  background: #EBEBEB url(../../img/offset.svg) no-repeat 50% 25px;
+  background: #EBEBEB url(../img/offset.svg) no-repeat 50% 25px;
 }
 .promo__nav li:nth-of-type(6) .promo__nav-link {
-  background: #EBEBEB url(../../img/printing.svg) no-repeat 50% 25px;
+  background: #EBEBEB url(../img/printing.svg) no-repeat 50% 25px;
 }
 .promo__nav li .promo__nav-link:hover {
   transition: 300ms;
@@ -722,7 +722,7 @@
   text-transform: uppercase;
   font-weight: 800;
   color: #FFFFFF;
-  background: #3157BE url(../../img/arrow-right.svg) no-repeat 85% 50%;
+  background: #3157BE url(../img/arrow-right.svg) no-repeat 85% 50%;
   border-radius: 100px;
   z-index: 2;
   cursor: pointer;
@@ -951,7 +951,7 @@
   display: block;
   width: 25px;
   height: 12px;
-  background: transparent url(../../img/arrow-right.svg) no-repeat 0 0;
+  background: transparent url(../img/arrow-right.svg) no-repeat 0 0;
   border: none;
 }
 .popular-goods__button {
